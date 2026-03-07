@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Daniel Espinosa 👋
 
-<!--
-**Noct1z/Noct1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at **Florida International University**
 
-Here are some ideas to get you started:
+## Main Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Swift
+* JavaScript
+
+## Interests
+
+* Software Engineering
+* Mobile Development (iOS)
+* Accessibility Technology
+
+## Featured Projects
+
+* **iReachYou** – iOS app translating speech into American Sign Language
+* **Movie Searcher** – iOS app using an external movie API
+* **MyMusic** – iOS music player built with AVFoundation
+* **Spotify Viz** – JavaScript music data visualization
