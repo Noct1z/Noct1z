@@ -21,6 +21,3 @@ Computer Science Student at **Florida International University**
 * **MyMusic** – iOS music player built with AVFoundation
 * **Spotify Viz** – JavaScript music data visualization
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noct1z&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noct1z&layout=compact)
